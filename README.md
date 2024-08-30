@@ -20,9 +20,5 @@ they came from in the ADI repository.
 TODO: Compare these files with the current files in the
 ADI repository.
 
-TODO: Create a library specification, and see if the
-ArduinoIDE can install from GitHub.
-
-
 
 
